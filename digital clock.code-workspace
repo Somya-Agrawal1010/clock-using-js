@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../git"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../javascript practice"
+		},
+		{
+			"path": "../node js"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../tic tac toc"
+		},
+		{
+			"path": "D:/LDPlayer/c backup/Desktop/e commerce website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "digital clock"
+	}
+}
